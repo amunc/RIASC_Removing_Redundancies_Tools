@@ -1,0 +1,324 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-10-26 11:21+Hora de verano romance\n"
+"PO-Revision-Date: 2017-10-26 11:42+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.0.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language: es_ES\n"
+
+#: utilities_phase_I.py:51 utilities_phase_I.py:59
+msgid "salir"
+msgstr "salir"
+
+#: utilities_phase_I.py:51 utilities_phase_I.py:61
+#: removing_redundancies_t1_t2_t3.py:101
+msgid "base datos"
+msgstr "base datos"
+
+#: utilities_phase_I.py:57
+msgid "Por favor, seleccione el origen de la muestra "
+msgstr "Por favor, seleccione el origen de la muestra "
+
+#: utilities_phase_I.py:64
+msgid "Seleccione el tipo de base de datos "
+msgstr "Seleccione el tipo de base de datos "
+
+#: utilities_phase_I.py:71
+msgid "Introduzca el host de la base de datos: "
+msgstr "Introduzca el host de la base de datos: "
+
+#: utilities_phase_I.py:72
+msgid "Introduzca el nombre de usuario: "
+msgstr "Introduzca el nombre de usuario: "
+
+#: utilities_phase_I.py:73
+msgid "Introduzca clave acceso: "
+msgstr "Introduzca clave acceso: "
+
+#: utilities_phase_I.py:74
+msgid "Introduza el nombre de la base de datos: "
+msgstr "Introduza el nombre de la base de datos: "
+
+#: utilities_phase_I.py:75
+msgid "Introduzca el nombre de la tabla a la que desea acceder: "
+msgstr "Introduzca el nombre de la tabla a la que desea acceder: "
+
+#: utilities_phase_I.py:85
+msgid ""
+"\n"
+"Alguno de los parametros introducidos es incorrecto. Intentalo de nuevo"
+msgstr ""
+"\n"
+"Alguno de los parametros introducidos es incorrecto. Intentalo de nuevo"
+
+#: utilities_phase_I.py:91
+msgid "Por favor, seleccione la muestra con la que trabajara: "
+msgstr "Por favor, seleccione la muestra con la que trabajara: "
+
+#: utilities_phase_I.py:100
+msgid ""
+"La extension de la muestra seleccionada no se corresponde con la del tipo de "
+"fichero elegido "
+msgstr ""
+"La extension de la muestra seleccionada no se corresponde con la del tipo de "
+"fichero elegido "
+
+#: utilities_phase_I.py:104 utilities_phase_I.py:109 utilities_phase_I.py:131
+msgid "S"
+msgstr "S"
+
+#: utilities_phase_I.py:105
+msgid ""
+"Va a utilizar un fichero para las variables individuales y otro para las "
+"vectoriales?['S','N']: "
+msgstr ""
+"Va a utilizar un fichero para las variables individuales y otro para las "
+"vectoriales?['S','N']: "
+
+#: utilities_phase_I.py:113
+msgid "Indique la ruta al fichero variables individuales: "
+msgstr "Indique la ruta al fichero variables individuales: "
+
+#: utilities_phase_I.py:116
+msgid "Indique la ruta al fichero variables vectoriales: "
+msgstr "Indique la ruta al fichero variables vectoriales: "
+
+#: utilities_phase_I.py:130
+msgid " como separador de campos. Es correcto? ['S','N']: "
+msgstr " como separador de campos. Es correcto? ['S','N']: "
+
+#: utilities_phase_I.py:130
+msgid "Se ha detectado "
+msgstr "Se ha detectado "
+
+#: utilities_phase_I.py:132
+msgid "Es correcto ['S','N']: "
+msgstr "Es correcto ['S','N']: "
+
+#: utilities_phase_I.py:136
+msgid "Introduzca separador de campos: "
+msgstr "Introduzca separador de campos: "
+
+#: utilities_phase_I.py:147
+msgid ""
+") esta contenido en los campos. Es necesario modificarlo para poder trabajar "
+"con el fichero.\n"
+"Debe introducir un nombre para el nuevo fichero que se creara: "
+msgstr ""
+") esta contenido en los campos. Es necesario modificarlo para poder trabajar "
+"con el fichero.\n"
+"Debe introducir un nombre para el nuevo fichero que se creara: "
+
+#: utilities_phase_I.py:147
+msgid "El separador del fichero ("
+msgstr "El separador del fichero ("
+
+#: utilities_phase_I.py:160
+msgid ""
+"Por favor, introduzca el separador de nombres y apellidos de variables: "
+msgstr ""
+"Por favor, introduzca el separador de nombres y apellidos de variables: "
+
+#: utilities_phase_I.py:169 removing_redundancies_t1_t2_t3.py:62
+#: removing_redundancies_t1_t2_t3.py:95 removing_redundancies_t1_t2_t3.py:98
+#: removing_redundancies_t1_t2_t3.py:222 removing_redundancies_t1_t2_t3.py:228
+#: removing_redundancies_t1_t2_t3.py:252 removing_redundancies_t1_t2_t3.py:258
+#: removing_redundancies_t1_t2_t3.py:287 removing_redundancies_t1_t2_t3.py:292
+msgid "individualizado"
+msgstr "individualizado"
+
+#: utilities_phase_I.py:169 utilities_phase_I.py:641
+#: removing_redundancies_t1_t2_t3.py:231 removing_redundancies_t1_t2_t3.py:261
+#: removing_redundancies_t1_t2_t3.py:295
+msgid "acumulativo"
+msgstr "acumulativo"
+
+#: utilities_phase_I.py:172
+msgid "Por favor, seleccione el modo de operacion "
+msgstr "Por favor, seleccione el modo de operacion "
+
+#: utilities_phase_I.py:176
+msgid ""
+"Por favor, introduzca el orden de eliminacion de redundancias (p.e 123) : "
+msgstr ""
+"Por favor, introduzca el orden de eliminacion de redundancias (p.e 123) : "
+
+#: utilities_phase_I.py:178
+msgid ""
+"El orden introducido no es correcto. Los ordenes posibles de eliminacion "
+"son: "
+msgstr ""
+"El orden introducido no es correcto. Los ordenes posibles de eliminacion "
+"son: "
+
+#: utilities_phase_I.py:250
+msgid "Comprobando separadores validos para la muestra..."
+msgstr "Comprobando separadores validos para la muestra..."
+
+#: utilities_phase_I.py:252
+msgid "Lista valida de separadores: "
+msgstr "Lista valida de separadores: "
+
+#: utilities_phase_I.py:254 utilities_phase_I.py:256
+msgid "Introduzca el nuevo separador de campos de entre los de la lista: "
+msgstr "Introduzca el nuevo separador de campos de entre los de la lista: "
+
+#: utilities_phase_I.py:611
+msgid " variables redundantes de "
+msgstr " variables redundantes de "
+
+#: utilities_phase_I.py:611
+msgid ""
+" ||  \n"
+"\n"
+"Se han eliminado un total de "
+msgstr ""
+" ||  \n"
+"\n"
+"Se han eliminado un total de "
+
+#: utilities_phase_I.py:611
+msgid ". Son: \n"
+msgstr ". Son: \n"
+
+#: utilities_phase_I.py:611
+msgid "||Eliminacion de redundancia de "
+msgstr "||Eliminacion de redundancia de "
+
+#: utilities_phase_I.py:639
+msgid "||Porcentajes de redundancia ||\n"
+msgstr "||Porcentajes de redundancia ||\n"
+
+#: utilities_phase_I.py:640
+msgid " % de redundancia de este tipo sobre el total de variables: "
+msgstr " % de redundancia de este tipo sobre el total de variables: "
+
+#: utilities_phase_I.py:645
+msgid ""
+"\n"
+" % de redundancia parcial -de la matriz "
+msgstr ""
+"\n"
+" % de redundancia parcial -de la matriz "
+
+#: utilities_phase_I.py:645
+msgid " a la matriz "
+msgstr " a la matriz "
+
+#: utilities_phase_I.py:647
+msgid ""
+"\n"
+"\n"
+" % de redundancia acumulativa -de la matriz A a la matriz "
+msgstr ""
+"\n"
+"\n"
+" % de redundancia acumulativa -de la matriz A a la matriz "
+
+#: utilities_phase_I.py:657
+msgid " variables a una cantidad final de "
+msgstr " variables a una cantidad final de "
+
+#: utilities_phase_I.py:657
+msgid ""
+"||\n"
+"Se ha pasado de "
+msgstr ""
+"||\n"
+"Se ha pasado de "
+
+#: utilities_phase_I.py:657
+msgid "||Porcentaje de redundancia total "
+msgstr "||Porcentaje de redundancia total "
+
+#: utilities_phase_I.py:658
+msgid "% de redundancia total: "
+msgstr "% de redundancia total: "
+
+#: removing_redundancies_t1_t2_t3.py:53
+msgid "Eliminacion a realizar: "
+msgstr "Eliminacion a realizar: "
+
+#: removing_redundancies_t1_t2_t3.py:55
+msgid "Fichero usado "
+msgstr "Fichero usado "
+
+#: removing_redundancies_t1_t2_t3.py:128
+msgid ""
+"El fichero proporcionado contiene mas de una hoja.Por favor, seleccione la "
+"hoja con la que trabajar"
+msgstr ""
+"El fichero proporcionado contiene mas de una hoja.Por favor, seleccione la "
+"hoja con la que trabajar"
+
+#: removing_redundancies_t1_t2_t3.py:130
+msgid "Seleccione una hoja valida con la que trabajar: "
+msgstr "Seleccione una hoja valida con la que trabajar: "
+
+#: removing_redundancies_t1_t2_t3.py:150
+msgid "El usuario hace distincion entre variables individuales y vectoriales"
+msgstr "El usuario hace distincion entre variables individuales y vectoriales"
+
+#: removing_redundancies_t1_t2_t3.py:163
+msgid ""
+"No se han proporcionado variables individuales y vectoriales. Se obtendran "
+"directamente."
+msgstr ""
+"No se han proporcionado variables individuales y vectoriales. Se obtendran "
+"directamente."
+
+#: removing_redundancies_t1_t2_t3.py:214
+msgid "=>Eliminacion de la redundancia de tipo 1"
+msgstr "=>Eliminacion de la redundancia de tipo 1"
+
+#: removing_redundancies_t1_t2_t3.py:215 removing_redundancies_t1_t2_t3.py:216
+msgid "_sin_rT1"
+msgstr "_sin_rT1"
+
+#: removing_redundancies_t1_t2_t3.py:216 removing_redundancies_t1_t2_t3.py:243
+#: removing_redundancies_t1_t2_t3.py:277
+msgid "resumen_"
+msgstr "resumen_"
+
+#: removing_redundancies_t1_t2_t3.py:229 removing_redundancies_t1_t2_t3.py:237
+msgid "tipo 1"
+msgstr "tipo 1"
+
+#: removing_redundancies_t1_t2_t3.py:241
+msgid "=>Eliminacion de la redundancia de tipo 2"
+msgstr "=>Eliminacion de la redundancia de tipo 2"
+
+#: removing_redundancies_t1_t2_t3.py:242 removing_redundancies_t1_t2_t3.py:243
+msgid "_sin_rT2"
+msgstr "_sin_rT2"
+
+#: removing_redundancies_t1_t2_t3.py:259 removing_redundancies_t1_t2_t3.py:267
+msgid "tipo 2"
+msgstr "tipo 2"
+
+#: removing_redundancies_t1_t2_t3.py:274
+msgid "=>Eliminacion de la redundancia de tipo 3"
+msgstr "=>Eliminacion de la redundancia de tipo 3"
+
+#: removing_redundancies_t1_t2_t3.py:276 removing_redundancies_t1_t2_t3.py:277
+msgid "_sin_rT3"
+msgstr "_sin_rT3"
+
+#: removing_redundancies_t1_t2_t3.py:301
+msgid "tipo 3"
+msgstr "tipo 3"
+
+#: removing_redundancies_t1_t2_t3.py:320
+msgid "grafo_"
+msgstr "grafo_"
