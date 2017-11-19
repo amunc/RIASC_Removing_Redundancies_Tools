@@ -710,7 +710,8 @@ def generar_grafo_no_dirigido(adjacency_matrix,mylabels,indice_max_nombres,indic
         color_map[indice] = 'deleted'
     
     while 'deleted' in color_map: color_map.remove('deleted')
-    gr.remove_nodes_from(nx.isolates(gr))
+    graph_copy = gr.copy()
+    gr.remove_nodes_from(nx.isolates(graph_copy))
     nx.draw(gr,pos=position,labels=etiquetas,node_color=color_map,font_size=6,font_weight='bold',node_size=500,linewidths=0.1)    
     f.savefig(ruta_guardado)
     return position
