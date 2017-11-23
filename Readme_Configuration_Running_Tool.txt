@@ -39,7 +39,7 @@ The required directory structure is the next:
 
 root_directory/
 	      |_ input_files/ (it can contain the input samples when working with csv and the auxiliary files)
-	      |_ jars (it must containt at least custom.jar, hadoop-streaming-2.7.3 and utilities.zip
+	      |_ jars (it must containt at least custom.jar, hadoop-streaming-2.7.3.jar and utilities.zip
 	      |_ .py and .sh files
 			  
 		
@@ -48,6 +48,9 @@ root_directory/
 ---------------------------------------------------
 The input sources that are allowed are:
 	csv files
+	||*WARNING* The user must verify that the field delimiter of the csv file is not contained none of the columns as value
+	    If this happends the batch execution will fail because the tool uses hadoop-streaming to proccess the file and reads
+	    char by char. If your field delimiter is also inside of any of the fields, change the csv field delimiter by other 	    		char not contained *WARNING*||
 	
 Auxiliary files:
 	It can be used an auxiliary file for the single variables and another one for the vector variables. Both must be placed inside input_files folder
@@ -87,7 +90,7 @@ Auxiliary files must be .txt files, one for isolated names and another one for v
 	
 	Example:
 		If the user want to remove the three redundancies at once in the default order (III,II,I):
-		./script_execution_phase_I.sh path_to_sample accumulative ^ ' ' 
+		./script_execution_phase_II.sh accumulative ^ ' ' 
 	
 	
 
